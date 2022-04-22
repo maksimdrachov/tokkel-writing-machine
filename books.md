@@ -19,3 +19,4 @@ A Little Life
 Bible (King James)
 Book of the Dead
 Quran
+Ernest Hemmingway
